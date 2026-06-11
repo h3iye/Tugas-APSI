@@ -25,4 +25,4 @@ Kurir mengirim barang ke alamat pelanggan.
 Pelanggan menerima barang dan melakukan konfirmasi, lalu sistem mengubah status pesanan menjadi "Selesai".
 
 
-Catatan: di screenshot tugasmu studi kasusnya tentang "Analisis Hubungan Usia, Produktivitas, dan Konsumsi Gula" — itu beda tema dengan diagram penjualan yang kita buat. Kalau ternyata dosen mewajibkan pakai tema kesehatan itu, bilang saja, nanti saya buatkan ulang PlantUML flow bisnis + ERD-nya sesuai entitas Respondent, CognitiveTest, SugarConsumption, dst.
+Catatan: di screenshot tugasmu studi kasusnya tentang "Analisis Hubungan Usia, Produktivitas, dan Konsumsi Gula" — itu beda tema dengan diagram penjualan yang kita buat. Kalau ternyata dosen mewajibkan pakai tema kesehatan itu, bilang saja, nanti saya buatkan ulang PlantUML flow bisnis + ERD-nya sesuai entitas Respondent, CognitiveTest, SugarConsumption, dst.
