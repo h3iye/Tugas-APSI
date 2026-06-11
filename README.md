@@ -1,9 +1,9 @@
-Tugas APSI Pertemuan 9
-Studi kasus:
+# Tugas APSI Pertemuan 9
+# Studi kasus:
 
 Analisis dan Perancangan Sistem Informasi Penjualan Online (E-Commerce)
 
-BRD (Business Requirements Document)
+# BRD (Business Requirements Document)
 Sistem penjualan online dibutuhkan untuk mempermudah pelanggan dalam melakukan pembelian produk secara digital tanpa harus datang ke toko fisik. Sistem ini mencakup proses melihat katalog produk, pemesanan, pembayaran, hingga pengiriman barang. Dengan adanya sistem ini, admin dapat mengelola produk dan pesanan secara terpusat, status pesanan dapat dipantau secara real-time oleh pelanggan, dan seluruh transaksi tercatat dengan rapi sehingga mengurangi kesalahan pencatatan manual serta mempercepat proses bisnis penjualan.
 ERD
 
@@ -14,7 +14,7 @@ Pesanan → Data transaksi pemesanan (tanggal pesanan, status, total harga).
 Detail_Pesanan → Rincian produk yang dibeli dalam satu pesanan (jumlah, subtotal).
 Pembayaran → Data pembayaran pesanan (metode pembayaran, jumlah bayar, tanggal bayar).
 
-Flow Bisnis
+# Flow Bisnis
 
 Pelanggan melihat katalog dan memilih produk, lalu menambahkannya ke keranjang.
 Pelanggan melakukan checkout dan mengisi alamat pengiriman.
