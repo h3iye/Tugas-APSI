@@ -76,6 +76,4 @@ Menyimpan informasi metode pembayaran yang digunakan, seperti Tunai, Transfer Ba
 * Satu Pembayaran menggunakan satu Metode_Pembayaran.
 * Satu Kelas dapat memiliki banyak Siswa.
 
-### Penjelasan Relasi Jika Ditanya Dosen
 
-"Satu orang tua dapat memiliki beberapa anak yang terdaftar sebagai siswa di PAUD. Setiap siswa ditempatkan pada satu kelas tertentu. Saat pertama kali masuk, siswa melakukan satu proses pendaftaran. Selama bersekolah, siswa dapat melakukan banyak pembayaran seperti biaya pendaftaran dan SPP bulanan. Setiap transaksi pembayaran menggunakan satu metode pembayaran tertentu. Sementara itu, satu kelas dapat diisi oleh banyak siswa."
